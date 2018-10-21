@@ -199,7 +199,7 @@ This section provides troubleshooting situations (and solutions) for working wit
    
    ![](media/desktop-sap-bw-connector/sap_bw_8.png)
    
-3. **Navigator** window does not display a data preview and instead provides an *object reference not set to an instance of an object*.
+3. The **Navigator** window does not display a data preview and instead provides an *object reference not set to an instance of an object* error message.
    
    SAP users need access to specific BAPI function modules to get metadata and retrieve data from SAP BW's InfoProviders. These include:
    * BAPI_MDPROVIDER_GET_CATALOGS
